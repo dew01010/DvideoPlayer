@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:width="10dp"
+        android:top="4dp"
+        android:height="15dp">
+        <bitmap
+            android:src="@drawable/back_button_icon"
+            android:tint="@color/colorWhite" />
+    </item>
+</layer-list>
